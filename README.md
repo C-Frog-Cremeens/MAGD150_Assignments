@@ -1,5 +1,7 @@
 # MAGD 150 Assignments
 
+A repository for my MAGD 150 projects
+
 ## Example 1: Popping Bubbles
 
 A simple animated program. Pastel bubbles grow and pop in the background while two smaller bubbles follow the mouse, changing color based on their position.
